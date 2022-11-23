@@ -4,19 +4,19 @@
     "url": "https://www.planning.data.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.planning.data.gov.uk.ico",
     "slug": "main",
-    "status": "down",
-    "uptime": "16.54%",
-    "uptimeDay": "16.54%",
-    "uptimeWeek": "16.54%",
-    "uptimeMonth": "16.54%",
-    "uptimeYear": "16.54%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.37%",
+    "uptimeDay": "1.37%",
+    "uptimeWeek": "1.37%",
+    "uptimeMonth": "1.37%",
+    "uptimeYear": "1.37%",
+    "time": 904,
+    "timeDay": 904,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2022-11-23": 0
+      "2022-11-23": 9
     }
   },
   {
