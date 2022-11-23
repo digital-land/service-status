@@ -13,8 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /service-status
+  cname: service-status.planning.data.gov.uk
+  #  baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/digital-land/digital-land.info/main/assets/images/favicon.svg
   name: Planning Data Service Status
   introTitle: Planning Data aims to make land and housing data easier to find, understand, use and trust.
