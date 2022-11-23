@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.planning.data.gov.uk.ico",
     "slug": "platform-website",
     "status": "up",
-    "uptime": "94.57%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "94.57%",
+    "uptime": "96.86%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
     "time": 570,
     "timeDay": 570,
     "timeWeek": 570,
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-23": 28
+      "2022-11-23": 16
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/datasette.planning.data.gov.uk.ico",
     "slug": "query-api",
     "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.74%",
+    "uptime": "96.78%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "96.78%",
+    "uptimeYear": "96.78%",
     "time": 1027,
     "timeDay": 1027,
     "timeWeek": 1027,
@@ -62,17 +62,19 @@
     "url": "https://status.planning.data.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/status.planning.data.gov.uk.ico",
     "slug": "internal-status-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 869,
     "timeDay": 869,
     "timeWeek": 869,
     "timeMonth": 869,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-23": 0
+    }
   }
 ]
