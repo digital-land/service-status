@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.planning.data.gov.uk.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
-    "time": 904,
-    "timeDay": 904,
-    "timeWeek": 904,
-    "timeMonth": 904,
-    "timeYear": 904,
-    "dailyMinutesDown": {
-      "2022-11-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 740,
+    "timeDay": 740,
+    "timeWeek": 740,
+    "timeMonth": 740,
+    "timeYear": 740,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Datasette",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 899,
-    "timeWeek": 899,
-    "timeMonth": 899,
-    "timeYear": 899,
+    "time": 967,
+    "timeDay": 967,
+    "timeWeek": 967,
+    "timeMonth": 967,
+    "timeYear": 967,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 437,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {}
   }
 ]
