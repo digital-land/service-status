@@ -22,18 +22,20 @@
     "url": "https://datasette.planning.data.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/datasette.planning.data.gov.uk.ico",
     "slug": "query-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
     "time": 1102,
     "timeDay": 1102,
     "timeWeek": 1102,
     "timeMonth": 1102,
     "timeYear": 1102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-23": 0
+    }
   },
   {
     "name": "Map Tiles API",
