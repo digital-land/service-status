@@ -53,19 +53,19 @@
     "url": "https://datasette-tiles.planning.data.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/datasette-tiles.planning.data.gov.uk.ico",
     "slug": "map-tiles-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 610,
-    "timeWeek": 644,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 705,
+    "timeDay": 684,
+    "timeWeek": 665,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 6
     }
   },
   {
