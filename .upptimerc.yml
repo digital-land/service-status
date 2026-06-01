@@ -3,12 +3,12 @@ owner: digital-land # Your GitHub organization or username, where this repositor
 repo: service-status # The name of this repository
 
 sites:
-  - name: Platform Website
+  - name: Platform
     url: https://www.planning.data.gov.uk
-  - name: Query API
+  - name: Datasette API
     url: https://datasette.planning.data.gov.uk
-  - name: Map Tiles API
-    url: https://datasette-tiles.planning.data.gov.uk
+  - name: Tiles Server
+    url: http://tiles.planning.data.gov.uk/article-4-direction-area/metadata.json
   - name: Internal Status API
     url: https://status.planning.data.gov.uk
 
