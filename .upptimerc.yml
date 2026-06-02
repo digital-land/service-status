@@ -77,8 +77,8 @@ status-website:
 
     /* Blue GOV.UK header bar */
     .pd-header { background: #1d70b8; }
-    .pd-header__inner { max-width: 960px; margin: 0 auto; padding: 10px 30px; }
-    .pd-header__link { color: #fff !important; text-decoration: none; display: inline-block; }
+    .pd-header__inner { max-width: 960px; margin: 0 auto; padding: 0 30px; box-sizing: border-box; display: flex; align-items: center; height: 60px; }
+    .pd-header__link { color: #fff !important; text-decoration: none; display: flex; align-items: center; line-height: 0; }
     .pd-header__link:hover { color: #fff !important; }
     .pd-header__link:visited { color: #fff !important; }
 
