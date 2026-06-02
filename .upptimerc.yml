@@ -16,6 +16,7 @@ status-website:
   cname: service-status.planning.data.gov.uk
   logoUrl: https://raw.githubusercontent.com/digital-land/digital-land.info/main/assets/images/favicon.svg
   hideNavLogo: true
+  faviconSvg: https://cdn.jsdelivr.net/npm/govuk-frontend@5/dist/govuk/assets/rebrand/images/favicon.svg
   name: Planning Data Service Status
   introTitle: Planning Data aims to make land and housing data easier to find, understand, use and trust.
   introMessage: |
