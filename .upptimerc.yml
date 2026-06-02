@@ -5,6 +5,10 @@ repo: service-status
 sites:
   - name: Platform
     url: https://www.planning.data.gov.uk
+  - name: Provide
+    url: https://provide.planning.data.gov.uk
+  - name: Manage
+    url: https://manage.planning.data.gov.uk
   - name: Datasette API
     url: https://datasette.planning.data.gov.uk
   - name: Tiles Server
@@ -92,6 +96,13 @@ status-website:
     nav ul li a { font-family: "GDS Transport", arial, sans-serif; font-size: 0.9375rem; color: #0b0c0c !important; text-decoration: none !important; padding: 12px 10px !important; }
     nav ul li a:hover { text-decoration: underline !important; text-decoration-thickness: 3px; text-underline-offset: 3px; }
     nav ul li a[aria-current="page"] { font-weight: 700; border-bottom: 4px solid #0b0c0c; }
+
+    /* Status tag labels - accessible text alongside colour indicators */
+    article h4 { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    article h4::after { font-family: "GDS Transport", arial, sans-serif; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; letter-spacing: 1px; text-transform: uppercase; white-space: nowrap; color: #fff; }
+    article.up h4::after { content: "Operational"; background: #00703c; }
+    article.down h4::after { content: "Down"; background: #d4351c; }
+    article.degraded h4::after { content: "Degraded"; background: #f47738; }
 
     /* H1 and intro text */
     h1 { font-family: "GDS Transport", arial, sans-serif; font-size: 2rem; font-weight: 700; color: #0b0c0c; margin-bottom: 10px; line-height: 1.25; }
