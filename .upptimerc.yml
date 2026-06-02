@@ -21,6 +21,7 @@ status-website:
   introMessage: |
     Our platform collects planning and housing data from local planning authorities (LPAs) and transforms it into a
     consistent state, across England. Anyone can view, download and analyse the data we hold.
+  theme: light
   navbar:
     - title: Platform
       href: https://www.planning.data.gov.uk
@@ -54,6 +55,21 @@ status-website:
     </div>
 
   css: |
+    :root {
+      --body-background-color: #ffffff;
+      --body-text-color: #0b0c0c;
+      --nav-background-color: #f4f8fb;
+      --nav-border-bottom-color: #8eb8dc;
+      --nav-current-border-bottom-color: #1d70b8;
+      --up-border-left-color: #00703c;
+      --up-background-color: #cce2d8;
+      --tag-up-background-color: #00703c;
+      --down-border-left-color: #d4351c;
+      --down-background-color: #f6d7d2;
+      --tag-down-background-color: #d4351c;
+      --degraded-border-left-color: #f47738;
+      --tag-degraded-background-color: #f47738;
+    }
     body { font-family: "GDS Transport", arial, sans-serif; color: #0b0c0c; background: #fff; margin: 0; }
     a { color: #1d70b8; }
     a:hover { color: #003078; }
