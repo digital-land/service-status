@@ -4,11 +4,13 @@ repo: service-status
 
 sites:
   - name: Platform
-    url: https://www.planning.data.gov.uk
+    url: https://www.planning.data.gov.uk/health
   - name: Provide
-    url: https://provide.planning.data.gov.uk
+    url: https://provide.planning.data.gov.uk/health
   - name: Manage
-    url: https://manage.planning.data.gov.uk
+    url: https://manage.planning.data.gov.uk/health
+  - name: Design
+    url: https://design.planning.data.gov.uk
   - name: Datasette API
     url: https://datasette.planning.data.gov.uk
   - name: Tiles Server
@@ -22,7 +24,7 @@ status-website:
   name: Planning Data Service Status
   introTitle: Check the current status of Planning Data and see details of past incidents.
   introMessage: |
-    For problems with planning.data.gov.uk, you can email: digitalland@communities.gov.uk
+    For problems with planning.data.gov.uk, you can email [digitalland@communities.gov.uk](mailto:digitalland@communities.gov.uk)
   theme: light
   navbar:
     - title: Platform
