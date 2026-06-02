@@ -13,8 +13,6 @@ sites:
     url: https://datasette.planning.data.gov.uk
   - name: Tiles Server
     url: http://tiles.planning.data.gov.uk/article-4-direction-area/metadata.json
-  - name: Internal Status API
-    url: https://status.planning.data.gov.uk
 
 status-website:
   cname: service-status.planning.data.gov.uk
@@ -22,10 +20,9 @@ status-website:
   hideNavLogo: true
   faviconSvg: https://cdn.jsdelivr.net/npm/govuk-frontend@5/dist/govuk/assets/rebrand/images/favicon.svg
   name: Planning Data Service Status
-  introTitle: Planning Data aims to make land and housing data easier to find, understand, use and trust.
+  introTitle: Check the current status of Planning Data and see details of past incidents.
   introMessage: |
-    Our platform collects planning and housing data from local planning authorities (LPAs) and transforms it into a
-    consistent state, across England. Anyone can view, download and analyse the data we hold.
+    For problems with planning.data.gov.uk, you can email: digitalland@communities.gov.uk
   theme: light
   navbar:
     - title: Platform
