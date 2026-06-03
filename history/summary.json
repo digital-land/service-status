@@ -77,17 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datasette.planning.data.gov.uk.ico",
     "slug": "datasette-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.30%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 243,
     "timeDay": 241,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 32
+    }
   },
   {
     "name": "Tiles Server",
