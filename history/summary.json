@@ -76,19 +76,20 @@
     "url": "https://datasette.planning.data.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/datasette.planning.data.gov.uk.ico",
     "slug": "datasette-api",
-    "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.35%",
-    "time": 243,
-    "timeDay": 332,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "96.03%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "96.03%",
+    "time": 237,
+    "timeDay": 266,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-06-03": 56
+      "2026-06-03": 56,
+      "2026-06-04": 82
     }
   },
   {
