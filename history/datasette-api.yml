@@ -1,7 +1,7 @@
 url: https://datasette.planning.data.gov.uk
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2026-06-12T01:25:45.494Z
+status: up
+code: 200
+responseTime: 1532
+lastUpdated: 2026-06-12T02:21:11.170Z
 startTime: 2026-06-01T18:13:06.793Z
 generator: Upptime <https://github.com/upptime/upptime>
