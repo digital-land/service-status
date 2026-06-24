@@ -17,7 +17,7 @@ sites:
     url: http://tiles.planning.data.gov.uk/article-4-direction-area/metadata.json
 
 status-website:
-  cname: service-status.planning.data.gov.uk
+  cname: status.planning.data.gov.uk
   logoUrl: https://raw.githubusercontent.com/digital-land/digital-land.info/main/assets/images/favicon.svg
   hideNavLogo: true
   faviconSvg: https://cdn.jsdelivr.net/npm/govuk-frontend@5/dist/govuk/assets/rebrand/images/favicon.svg
